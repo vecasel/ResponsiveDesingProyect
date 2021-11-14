@@ -1,0 +1,36 @@
+.log-container{
+    max-height: 327.859px;
+    background-size: 30%;
+}
+.log-container img{
+    width: 20%;
+}
+.form-container{
+    min-height: 50px;
+}
+.form-container input{
+    width: 200px;
+    height: 25px;
+    margin-left: 20px;
+}
+main{
+    flex-wrap: nowrap
+}
+.main-container{
+    justify-content: flex-start;
+    border-bottom: 0;
+}
+.main-container p{
+    padding: 50px;
+
+}
+.lig-container{
+    justify-content: flex-start;
+    border-bottom: 0;
+    border-right: 1.5px solid #0D91C6;
+    padding: 40px;
+}
+.camp-container{
+    padding: 45px;
+    border-left: 1.5px solid #0D91C6;
+}

@@ -1,0 +1,33 @@
+.form-container{
+    flex-direction: row;
+    justify-content: center;
+}
+.form-container input{
+    width: 200px;
+    height: 25px;
+    margin-left: 20px;
+}
+main{
+    display: flex;
+    flex-wrap: wrap;
+}
+.main-container{
+    width: 50%;
+    border-right: 1.5px solid #0D91C6;
+}
+.lig-container{
+    width: 50%;
+    border-left: 1.5px solid #0D91C6;
+}
+.camp-container .riven img{
+    width: 60%;
+    padding: 10px;
+}
+.camp-container .irelia img{
+    width: 60%;
+    padding: 10px;
+}
+.camp-container .lee_sin img{
+    width: 50%;
+    padding: 10px;
+}
